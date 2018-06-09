@@ -1,6 +1,6 @@
 {
   "name": "ref-holder",
-  "version": "0.2.3",
+  "version": "1.0.0",
   "license": "MIT",
   "description": "Friendly util function for holding reference to element for react-like frameworks",
   "main": "dist/index.js",
