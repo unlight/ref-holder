@@ -27,9 +27,7 @@
     "clean": "rimraf dist",
     "commit": "git-cz"
   },
-  "dependencies": {
-    "tslib": "^1.9.2"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@semantic-release/changelog": "^2.0.2",
     "@semantic-release/git": "^5.0.0",
